@@ -1,0 +1,23 @@
+body{
+    background-color:darkviolet;
+    text-align:center;
+    font-family:'Century Gothic','Calibri Light';
+    color:white;
+}
+h1,h3{
+    font-weight:lighter;
+}
+h1{
+    font-size:40px;
+}
+h3{
+    font-size:28px;
+}
+button{
+    background-color:aqua;
+    font-size:19px;
+    font-family:Century Gothic;
+    height:30px;
+    width:100px;
+    border-radius:25px;
+}
